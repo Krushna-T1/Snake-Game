@@ -29,7 +29,7 @@ To run the Snake game locally, follow these steps:
 - Game over screen: Displayed when the game ends, showing the final score.
 
 ## Credits
-This game was created by [Krushna Tambe] as a project to practice JavaScript programming. Inspired by the classic Snake game.
+This game was created by _**Krushna Tambe**_ as a project to practice JavaScript programming. Inspired by the classic Snake game.
 
 ## Screenshots
 ![Snake Game](https://github.com/Krushna-T1/Snake-Game/assets/152420714/fbb19c86-fce8-445a-8870-13b376d099f6)
